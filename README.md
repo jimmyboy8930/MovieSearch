@@ -34,7 +34,7 @@ This project is a Java-based Netflix title database manager that allows users to
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/jimmyboy8930/MovieSearch.git
    ```
 
 2. **Compile the Java files**:
